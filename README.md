@@ -11,7 +11,7 @@ Get the list of recent [pushes](https://git-scm.com/docs/git-push) to [Github](h
 ```javascript
 const ghUserPushes = require('gh-user-pushes');
 
-ghUserPushes('shinnn', pushEvents => console.log(pushEvents));
+ghUserPushes('shinnn').then(pushEvents => console.log(pushEvents));
 ```
 
 ```javascript
@@ -82,6 +82,6 @@ It has almost the same API as [gh-user-events](https://github.com/shinnn/gh-user
 
 ## License
 
-Copyright (c) 2015 [Shinnosuke Watanabe](https://github.com/shinnn)
+Copyright (c) 2015 - 2016 [Shinnosuke Watanabe](https://github.com/shinnn)
 
 Licensed under [the MIT License](./LICENSE).

@@ -18,7 +18,7 @@ test('ghUserPushes()', t => {
     );
   }).catch(t.fail);
 
-  ghUserPushes('linus').then(pushes => {
+  ghUserPushes('vvvvv').then(pushes => {
     t.deepEqual(
       pushes,
       [],

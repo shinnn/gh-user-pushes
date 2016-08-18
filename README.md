@@ -3,8 +3,8 @@
 [![NPM version](https://img.shields.io/npm/v/gh-user-pushes.svg)](https://www.npmjs.com/package/gh-user-pushes)
 [![Build Status](https://travis-ci.org/shinnn/gh-user-pushes.svg?branch=master)](https://travis-ci.org/shinnn/gh-user-pushes)
 [![Coverage Status](https://img.shields.io/coveralls/shinnn/gh-user-pushes.svg)](https://coveralls.io/github/shinnn/is-gist-starred?branch=master)
-[![Dependency Status](https://david-dm.org/shinnn/gh-user-pushes.svg)](https://david-dm.org/shinnn/gh-user-pushes)
-[![devDependency Status](https://david-dm.org/shinnn/gh-user-pushes/dev-status.svg)](https://david-dm.org/shinnn/gh-user-pushes#info=devDependencies)
+[![dependencies Status](https://david-dm.org/shinnn/gh-user-pushes/status.svg)](https://david-dm.org/shinnn/gh-user-pushes)
+[![devDependencies Status](https://david-dm.org/shinnn/gh-user-pushes/dev-status.svg)](https://david-dm.org/shinnn/gh-user-pushes?type=dev)
 
 Get the list of recent [pushes](https://git-scm.com/docs/git-push) to [Github](https://github.com/) [repositories](https://help.github.com/articles/github-glossary/#repository) by a user
 

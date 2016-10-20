@@ -1,4 +1,4 @@
-'use strong';
+'use strict';
 
 const ghUserPushes = require('.');
 const test = require('tape');
